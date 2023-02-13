@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-App/static/css/main.11419c5a.css",
+    "main.js": "/React-App/static/js/main.63b86300.js",
+    "static/media/Babylon.jpeg": "/React-App/static/media/Babylon.bf53232b4b208b52e31c.jpeg",
+    "static/media/Pitt.jpg": "/React-App/static/media/Pitt.0ba2062bc3f318aa83a5.jpg",
+    "index.html": "/React-App/index.html",
+    "static/media/Like.svg": "/React-App/static/media/Like.2f0d7e9fb4a68cac7eb8ed2e1766a044.svg",
+    "static/media/Com.svg": "/React-App/static/media/Com.1bfaebeb044d30bfac20b37f90f80ab8.svg",
+    "static/media/Down.svg": "/React-App/static/media/Down.ae54fc97cd4d6aa1c3a6a7a5323c433a.svg",
+    "static/media/Repeat.svg": "/React-App/static/media/Repeat.1f05ebb0e1c256953613e41c88302e20.svg",
+    "main.11419c5a.css.map": "/React-App/static/css/main.11419c5a.css.map",
+    "main.63b86300.js.map": "/React-App/static/js/main.63b86300.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11419c5a.css",
+    "static/js/main.63b86300.js"
+  ]
+}
